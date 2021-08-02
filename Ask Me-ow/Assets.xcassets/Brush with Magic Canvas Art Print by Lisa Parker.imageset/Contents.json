@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Brush with Magic Canvas Art Print by Lisa Parker.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Brush with Magic Canvas Art Print by Lisa Parker@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Brush with Magic Canvas Art Print by Lisa Parker@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
